@@ -1,0 +1,16 @@
+{
+  "name": "30secondsofcode",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha ./tests.js"
+  },
+  "author": "Jakob Anderson <janderson@familysearch.org> (https://jakobanderson.com)",
+  "license": "MIT"
+}
